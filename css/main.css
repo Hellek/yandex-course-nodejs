@@ -1,0 +1,11 @@
+html, body, .my-wrapper {
+  height: 100%;
+}
+
+.minW {
+  min-width: 320px;
+}
+
+.input-field label:after {
+  min-width: 320px;
+}
